@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(to right, #ff512f, #dd2476, #ff512f);
+}
+
+main {
+  mask-image: url(../images/);
+}
